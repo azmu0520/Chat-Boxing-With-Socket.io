@@ -1,0 +1,34 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.join-chat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.join-chat input {
+  outline: none;
+  border: 2px solid #329547;
+  border-radius: 4px;
+  width: 100%;
+  height: 44px;
+  margin-bottom: 5px;
+}
+.join-chat button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  background-color: #329547;
+  color: #fff;
+  height: 44px;
+  font-size: 15px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+}
