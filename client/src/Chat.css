@@ -1,9 +1,0 @@
-.live {
-  display: flex;
-  flex-direction: column;
-}
-
-.chat-body {
-  height: 300px;
-  border: 1px solid #eee;
-}
